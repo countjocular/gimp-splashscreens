@@ -1,6 +1,8 @@
 # Count Jocular's GIMP splashscreens
 Custom splashscreens for the GNU Image Manipulation Program
 
+![The pixelpaint splashscreen](https://raw.githubusercontent.com/countjocular/gimp-splashscreens/master/pixelpaint.png)
+
 ## Installation
 
 GIMP will use any custom splashscreen you have installed in preference to its
