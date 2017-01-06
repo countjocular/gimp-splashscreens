@@ -24,6 +24,10 @@ These splashscreens build upon other people's excellent work. Specifically:
 
 - [This image](https://unsplash.com/photos/yjXlyrKIz2A) by Lia Leslie,
 available for unrestricted use on UnSplash.com
+- [Energy lost](https://unsplash.com/photos/uZxT3njDQYc) by Kai Oberhäuser,
+available for unrestricted use on UnSplash.com
+- The [League Gothic font](https://www.theleagueofmoveabletype.com/league-gothic)
+by The League of Moveable Type, available under the Open Font Licence
 - The [Arvo font family](https://fonts.google.com/specimen/Arvo) by Anton Koovit,
 available under the Open Font Licence
 - The [Daniel font](http://goodreasonblog.com/fontery/) by Daniel Midgley,
